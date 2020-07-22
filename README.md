@@ -1,0 +1,2 @@
+# myownsimon
+Simon game JS
